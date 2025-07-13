@@ -12,3 +12,12 @@ Aplicar e consolidar os conhecimentos adquiridos durante o aprendizado da lingua
 
 ## 📁 Estrutura de Pacotes
 
+A organização do projeto segue uma estrutura modular, onde cada pacote contém códigos relacionados a um tema específico, facilitando a localização e entendimento dos exemplos.
+
+Exemplo:
+- `basico` — conceitos fundamentais como tipos de dados, variáveis, operadores.
+- `orientacao_objeto` — exemplos de classes, objetos, herança, polimorfismo.
+- `colecoes` — uso de listas, mapas, sets.
+- `exercicios` — desafios e exercícios práticos.
+
+---
